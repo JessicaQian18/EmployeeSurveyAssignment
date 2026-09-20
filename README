@@ -1,0 +1,20 @@
+# Employee Survey Assignment
+
+This repository contains my Employee Survey Assignment completed in RStudio.
+
+## Contents
+- R Markdown file containing the analysis
+- HTML output generated from the R Markdown file
+- Employee survey dataset
+
+## Analysis Included
+- Renaming and exploring variables
+- Converting categorical variables to factors
+- Five-number summaries and descriptive statistics
+- Boxplots, histograms, bar charts, and scatter plots
+- Examination of relationships between employee survey variables
+
+## Tools Used
+- R
+- RStudio
+- R Markdown
